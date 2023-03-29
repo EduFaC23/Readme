@@ -9,7 +9,7 @@
 
 🐬Estoy comenzando a investigar en el área de Social Network
 
-😎⛏️⛏️⛏️🪨Soy Metalurgista de la universidad de concepción de pregrado, me titule el 2019
+😎⛏️⛏️⛏️💎Soy Metalurgista de la universidad de concepción de pregrado, me titule el 2019
 
 👩‍🌾Me gusta la vida de campo, amo plantar árboles , cultivar la tierra y sobre todos  a mis perros, Gatos y Gallinas
 
