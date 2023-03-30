@@ -16,13 +16,8 @@
     </a>
     <a href="mailto:eduardo.faundez.con@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="CV.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-    <a href="CV_es.pdf">
-        <img src="https://img.shields.io/badge/Resume (in english)-a?style=for-the-badge&logoColor=white"/>
-    </a>
+
+    
 </p>
 
 ## Informacion Acerca de Mi 😺
